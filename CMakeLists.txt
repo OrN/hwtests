@@ -29,4 +29,5 @@ include_directories(common)
 
 add_subdirectory(common)
 add_subdirectory(cputest)
+add_subdirectory(exitest)
 add_subdirectory(gxtest)
